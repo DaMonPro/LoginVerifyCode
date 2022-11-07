@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20478705-bda7-4de5-b25a-6110f7de792c" name="Default Changelist" comment="1.更新国家的信息">
+      <change afterPath="$PROJECT_DIR$/PhoneCode/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VerifyCodeMode/Image_Discern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VerifyCodeMode/Move_Picture/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VerifyCodeMode/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:xieguoqianglove/LoginVerifyCode.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="462" />
+    <option name="y" value="104" />
+    <option name="width" value="1894" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectId" id="2HD4BD1Ty9XchzYXMDT1ihCKYme" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/VerifyCodeMode" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\LoginVerifyCode\VerifyCodeMode\ Move_Picture" />
+      <recent name="D:\LoginVerifyCode\VerifyCodeMode\Image_Discern" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LoginVerifyCode\VerifyCodeMode" />
+      <recent name="D:\LoginVerifyCode\PhoneCode" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SlideVerify (1)">
+    <configuration name="SlideVerify (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LoginVerifyCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VerifyCodeMode/Move_Picture" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VerifyCodeMode/Move_Picture/SlideVerify.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SlideVerify" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LoginVerifyCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VerifyCodeMode/ Move_Picture" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VerifyCodeMode/ Move_Picture/SlideVerify.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SlideVerify (1)" />
+        <item itemvalue="Python.SlideVerify" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20478705-bda7-4de5-b25a-6110f7de792c" name="Default Changelist" comment="" />
+      <created>1565163176410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565163176410</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1.更新国家的信息">
+      <created>1565163225310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565163225310</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.更新国家的信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.更新国家的信息" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="575" y="291" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1667806639521">
+      <screen x="0" y="0" width="1646" height="981" />
+    </state>
+    <state x="575" y="291" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1646.981/150.-1440.2560.1392@0.0.1646.981" timestamp="1667806639521" />
+    <state width="1624" height="262" key="GridCell.Tab.0.bottom" timestamp="1667807457388">
+      <screen x="0" y="0" width="1646" height="981" />
+    </state>
+    <state width="1624" height="262" key="GridCell.Tab.0.bottom/0.0.1646.981/150.-1440.2560.1392@0.0.1646.981" timestamp="1667807457388" />
+    <state width="1624" height="262" key="GridCell.Tab.0.center" timestamp="1667807457388">
+      <screen x="0" y="0" width="1646" height="981" />
+    </state>
+    <state width="1624" height="262" key="GridCell.Tab.0.center/0.0.1646.981/150.-1440.2560.1392@0.0.1646.981" timestamp="1667807457388" />
+    <state width="1624" height="262" key="GridCell.Tab.0.left" timestamp="1667807457388">
+      <screen x="0" y="0" width="1646" height="981" />
+    </state>
+    <state width="1624" height="262" key="GridCell.Tab.0.left/0.0.1646.981/150.-1440.2560.1392@0.0.1646.981" timestamp="1667807457388" />
+    <state width="1624" height="262" key="GridCell.Tab.0.right" timestamp="1667807457388">
+      <screen x="0" y="0" width="1646" height="981" />
+    </state>
+    <state width="1624" height="262" key="GridCell.Tab.0.right/0.0.1646.981/150.-1440.2560.1392@0.0.1646.981" timestamp="1667807457388" />
+    <state x="485" y="210" width="672" height="678" key="search.everywhere.popup" timestamp="1667806448482">
+      <screen x="0" y="0" width="1646" height="981" />
+    </state>
+    <state x="485" y="210" width="672" height="678" key="search.everywhere.popup/0.0.1646.981/150.-1440.2560.1392@0.0.1646.981" timestamp="1667806448482" />
+  </component>
+</project>
